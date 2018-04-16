@@ -1,0 +1,11 @@
+{
+    "require": {
+        "yandex/geo": "^1.1.3",
+    },
+    "authors": [
+        {
+            "name": "name",
+            "email": "name@mail.ru"
+        }
+    ]
+}
